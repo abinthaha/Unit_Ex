@@ -1,0 +1,137 @@
+body {
+    background: "minions.jpg";
+    background-position: top left;
+    background-attachment: fixed;
+}
+
+#hello_px {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#inner_div_px{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  background: rgba(255, 0, 0, 0.7);
+}
+
+#inner_div_pt{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  border-radius: 5pt;
+  padding: 10pt 10pt;
+  margin: 10pt 10pt;
+  background: rgba(255, 0, 0, 0.7);;
+}
+
+#hello_pt {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 50px;
+  border-radius: 5pt;
+  padding: 10pt 10pt;
+  margin: 10pt 10pt;
+  background: rgba(0, 0, 0, 0.7);;
+}
+
+#inner_div_perc{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  border-radius: 5%;
+  padding: 10% 10%;
+  margin: 10% 10%;
+  background: rgba(255, 0, 0, 0.7);;
+}
+
+#hello_perc {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  border-radius: 5%;
+  padding: 10% 10%;
+  margin: 10% 10%;
+  background: rgba(0, 0, 0, 0.7);;
+}
+
+#inner_div_em{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  border-radius: 1em;
+  padding: 2em 2em;
+  margin: 2em 2em;
+  background: rgba(255, 0, 0, 0.7);;
+}
+
+#hello_em {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  border-radius: 1em;
+  padding: 2em 2em;
+  margin: 2em 2em;
+  background: rgba(0, 0, 0, 0.7);;
+}
+#inner_div_rem{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  border-radius: 1rem;
+  padding: 2rem 2rem;
+  margin: 2rem 2rem;
+  background: rgba(255, 0, 0, 0.7);;
+}
+
+#hello_rem {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  border-radius: 1rem;
+  padding: 2rem 2rem;
+  margin: 2rem 2rem;
+  background: rgba(0, 0, 0, 0.7);;
+}
+html{
+  font-size: 15px;
+}
